@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Lego Vision Sorter: Fine-Grained Visual Taxonomy for Object Classification in Industrial Robotics"
+authors:
+  - family-names: "Bhagwatkar"
+    given-names: "Sneha"
+    affiliation: "Department of Physics, University of Mumbai"
+date-released: 2026-07-10
+version: "1.0.0"
+url: "https://github.com/(update-with-your-username)/lego-vision-sorter"
+abstract: >
+  A computer vision pipeline for intra-family object classification developed
+  during a FOSSEE (IIT Bombay) internship in the Industrial Robotics and
+  Automation domain, under the guidance of Prof. Jayendran Venkateswaran,
+  Department of IEOR, IIT Bombay.
